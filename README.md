@@ -12,3 +12,5 @@ KiCAD
 2.Shutdown Circuit
 3.Precharge Circuit
 4.Tractive System Active Light
+
+![image](https://github.com/user-attachments/assets/381379a4-8549-42e3-930c-67d25ef1e66d)
