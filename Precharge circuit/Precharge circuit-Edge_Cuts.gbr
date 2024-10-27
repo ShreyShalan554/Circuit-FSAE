@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.5*%
+%TF.CreationDate,2023-11-27T09:45:35+05:30*%
+%TF.ProjectId,Precharge circuit,50726563-6861-4726-9765-206369726375,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.5) date 2023-11-27 09:45:35*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X28511500Y-30099000D02*
+X156603700Y-30099000D01*
+X156603700Y-97028000D01*
+X28511500Y-97028000D01*
+X28511500Y-30099000D01*
+M02*
