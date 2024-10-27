@@ -9,8 +9,14 @@ KiCAD
 # Description of circuits
 
 1.Charger Shutdown Circuit
+
+
 2.Shutdown Circuit
+![image](https://github.com/user-attachments/assets/2dcc3516-e6fa-4757-bba2-781267c70c35)
+
+
 3.Precharge Circuit
 4.Tractive System Active Light
+![image](https://github.com/user-attachments/assets/ccd27963-4b66-4aea-9e39-cc28b939b99e)
 
-![image](https://github.com/user-attachments/assets/381379a4-8549-42e3-930c-67d25ef1e66d)
+
